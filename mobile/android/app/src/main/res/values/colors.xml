@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F8F6F3</color>
+    <!-- CashMind icon: Deep Algerian green -->
+    <color name="icon_green">#0D5C4A</color>
+    <color name="icon_cream">#F8F6F3</color>
+</resources>

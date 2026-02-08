@@ -1,0 +1,26 @@
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+*.iml
+*.hprof
+
+# iOS
+ios/build/
+ios/Pods/
+*.xcworkspace
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# Node
+node_modules/
+
+# Metro
+.metro-health-check*
+
+# Misc
+*.log
+.env
+.env.local

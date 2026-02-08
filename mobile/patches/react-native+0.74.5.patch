@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native/gradle/libs.versions.toml b/node_modules/react-native/gradle/libs.versions.toml
+index 3facf13..1b51a09 100644
+--- a/node_modules/react-native/gradle/libs.versions.toml
++++ b/node_modules/react-native/gradle/libs.versions.toml
+@@ -23,7 +23,7 @@ javax-annotation-api = "1.3.2"
+ javax-inject = "1"
+ jsr305 = "3.0.2"
+ junit = "4.13.2"
+-kotlin = "1.9.22"
++kotlin = "1.9.24"
+ mockito = "3.12.4"
+ nexus-publish = "1.3.0"
+ okhttp = "4.9.2"
